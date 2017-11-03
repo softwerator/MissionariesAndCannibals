@@ -8,3 +8,5 @@ Durum sınıfında misyoner ve canavarların sayısı, botun sol/sağ kıyıda o
 
 Ana sınıfta ise sağ kıyı tamamen boş kalana kadar tekne seferlerinin sağlanması için işlemler yapılır. Misyoner, yamyam ve botun sol/sağda olması ile ilgili bilgiler bir kuyruk yapısında tutulur. Başlangıç durumu olan (3, 3, L)'den (0, 0, R)'ye ulaşacak en kısa yöntem while döngüsü aracılığıyla sağlanır. 
 En son olarak kaç tekne seferinde son duruma ulaşıldığının bilgisi verilmektedir.
+
+Daha önceden yapılmış uygulamanın linki: http://cs.calstatela.edu/wiki/index.php/Courses/CS_460/Fall_2006/Shakil,_Farrukh/Missionaries_and_Cannibals_using_Search_Algos
