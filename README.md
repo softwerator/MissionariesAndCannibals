@@ -2,7 +2,7 @@
 
 The problem of missionaries and cannibals is resolved using the Java with breadth first search.
 
-The main class is called the BreadthFirstSearch. A class named State has been used to control control over coastal conditions.
+The main class is called the BreadthFirstSearch. A class named State has been used to control over coastal conditions.
 
 The number of missionaries and monsters in the case class, the state of the boat on the left/right shore, and the state in which it is coming from are captured. In addition, the results obtained from each boat run are returned and the boolean method is used to ensure that errors do not occur in the variable values.
 
